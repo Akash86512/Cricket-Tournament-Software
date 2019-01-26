@@ -1,0 +1,37 @@
+import javax.swing.*;  
+import java.awt.event.*;  
+import java.awt.*;
+
+class TournamentLogin extends JFrame
+{
+	JLabel login;
+
+	Container c;
+
+	TournamentLogin()
+	{
+	         c=this.getContentPane();
+		 c.setLayout(null);
+		 c.setBackground(Color.ORANGE);
+	
+	
+	
+		setTitle("new Frame");
+		setVisible(true);
+		//setExtendedState(JFrame.MAXIMIZED_BOTH);
+		//setUndecorated(true);
+		setSize(400,300);
+		setLocationRelativeTo(null);
+	
+	}
+
+	public static void main(String[] args)
+	{
+	 new TournamentLogin();
+	
+	}
+	
+}
+
+
+ 

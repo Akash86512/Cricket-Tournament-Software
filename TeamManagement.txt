@@ -1,0 +1,32 @@
+import javax.swing.*;  
+import java.awt.event.*;  
+import java.awt.*;
+
+class TeamManagement extends JFrame
+{
+
+		Container c;
+		TeamManagement()
+		{
+		c=this.getContentPane();
+		c.setLayout(null);
+		c.setBackground(Color.ORANGE);
+
+
+
+	
+		setTitle("new Frame");
+		setVisible(true);
+		//setExtendedState(JFrame.MAXIMIZED_BOTH);
+		//setUndecorated(true);
+		setSize(400,200);
+		setLocationRelativeTo(null);
+
+		}
+
+		public static void main()
+		{
+ 			new TeamManagement();
+		}
+
+}
