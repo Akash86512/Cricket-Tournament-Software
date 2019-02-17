@@ -1,3 +1,2 @@
 # Cricket-Tournament-software-core-java-oracle-
-
-![alt text](https://photos.app.goo.gl/cv8phDeUuc5xhAro6)
+![image](https://drive.google.com/uc?export=view&id=1913oZeBZPBNiUuk8gu3ZSbLBA2l_VQtG)
